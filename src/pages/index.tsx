@@ -13,7 +13,7 @@ const services = [
         website: 'https://ismsbv.nl',
     },
     {
-        logo: 'https://aysa.ams3.cdn.digitaloceanspaces.com/nest-logo.webp',
+        logo: 'https://aysa.ams3.digitaloceanspaces.com/nesa-logo.png',
         website: 'https://www.nesatravel.com/',
     },
     {
