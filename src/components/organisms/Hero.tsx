@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const Hero = (props: any) => {
     return (
-        <section className="flex flex-col md:flex-row text-center md:text-left md:my-11 md:px-9">
+        <section className="flex flex-col md:flex-row text-center md:text-left md:my-11 md:px-9 my-6">
             <div className="mx-10 text-center lg:pr-4">
                 <h5 className="text-sm font-semibold text-white mb-2.5">
                     Bridging Services, Securing Satisfaction

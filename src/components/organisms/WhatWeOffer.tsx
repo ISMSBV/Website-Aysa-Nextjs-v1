@@ -35,7 +35,7 @@ const WhatWeOffer = ({
                                 <Button
                                     title="Naar Website"
                                     link={item?.website}
-                                    className="hidden lg:inline-block mt-8"
+                                    className="inline-block mt-8"
                                     target="_blank"
                                 />
                             )}
