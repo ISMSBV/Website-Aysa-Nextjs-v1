@@ -74,7 +74,7 @@ export default function Footer(props: any) {
                     className="flex items-center mb-2.5"
                 >
                     <Image
-                        src="https://aysa.ams3.cdn.digitaloceanspaces.com/aysa-logo.png"
+                        src="https://aysa.ams3.cdn.digitaloceanspaces.com/aysa-logo-v1.png"
                         width={138}
                         height={40}
                         alt="ISMS Logo"
