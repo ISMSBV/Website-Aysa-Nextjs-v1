@@ -1,7 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
-import { title } from 'process';
-import { RiLinkedinBoxFill, RiPlayMiniFill } from 'react-icons/ri';
+import { RiLinkedinBoxFill } from 'react-icons/ri';
 
 export default function Footer(props: any) {
     const columns = [
@@ -70,14 +68,14 @@ export default function Footer(props: any) {
         <footer className="grid md:grid-cols-2 lg:grid-cols-4 gap-7.5 mt-16 text-center">
             <div className="flex lg:mb-12 flex-col items-center">
                 <a
-                    href="https://ismsbv.nl"
+                    href="https://www.aysagroup.nl/"
                     className="flex items-center mb-2.5"
                 >
                     <Image
                         src="https://aysa.ams3.cdn.digitaloceanspaces.com/aysa-logo-v1.png"
                         width={138}
                         height={40}
-                        alt="ISMS Logo"
+                        alt="Aysa Logo"
                     />
                 </a>
                 <p className="text-grey ml-3.75 text-sm sm:text-base text-center leading-6 mb-5">

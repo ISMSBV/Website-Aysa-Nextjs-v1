@@ -1,23 +1,20 @@
-import Head from 'next/head';
-import Image from 'next/image';
-import { Inter } from 'next/font/google';
-import styles from '@/styles/Home.module.css';
 import Hero from '@/components/organisms/Hero';
 import WhatWeOffer from '@/components/organisms/WhatWeOffer';
+import { Inter } from 'next/font/google';
 
 const inter = Inter({ subsets: ['latin'] });
 
 const services = [
     {
-        logo: 'https://cdn.ismsbv.online/images/logo.png',
+        logo: 'https://cdn.prod.website-files.com/682b31e2c3aa4d0d53f01232/683429b43af6faa453da0f94_isms%20256x256.svg',
         website: 'https://ismsbv.nl',
     },
     {
-        logo: 'https://aysa.ams3.digitaloceanspaces.com/nesa-logo.png',
+        logo: 'https://cdn.prod.website-files.com/682b31e2c3aa4d0d53f01232/68bee60373ba73209d9c7528_Nesa%20logo%20tekst.avif',
         website: 'https://www.nesatravel.com/',
     },
     {
-        logo: 'https://cdn.ismsbv.online/images/esa.jpg',
+        logo: 'https://cdn.prod.website-files.com/682b31e2c3aa4d0d53f01232/68bee603f197a123cdcaf4a3_horizontal_on_transparent_by_logaster_pn.avif',
         website: 'https://www.esaeventbv.nl/',
     },
 ];
