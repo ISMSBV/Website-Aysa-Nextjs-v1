@@ -10,7 +10,7 @@ const services = [
         website: 'https://ismsbv.nl',
     },
     {
-        logo: 'https://cdn.prod.website-files.com/682b31e2c3aa4d0d53f01232/68bee60373ba73209d9c7528_Nesa%20logo%20tekst.avif',
+        logo: 'https://cdn.prod.website-files.com/682b31e2c3aa4d0d53f01232/68bfe9b178998cb01ea1755f_nesa-travel-white.png',
         website: 'https://www.nesatravel.com/',
     },
     {

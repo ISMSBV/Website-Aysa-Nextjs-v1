@@ -9,7 +9,7 @@ const Header = (props: any) => {
                     className="flex items-center"
                 >
                     <Image
-                        src="https://aysa.ams3.cdn.digitaloceanspaces.com/aysa-logo-v1.png"
+                        src="https://cdn.prod.website-files.com/682b31e2c3aa4d0d53f01232/68bfea3e8cd65bc925568537_Schermafbeelding%202025-09-09%20om%2010.48.53.png"
                         width={124}
                         height={40}
                         alt="Aysa Logo"
